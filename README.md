@@ -12,3 +12,9 @@ Atualmente, trabalho como freelancer, ajudando empresas, empreendedores e organi
 
 ## Redes Sociais:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/marketing-simone-delgado) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:simonedelgadomkt@gmail.com)
+
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/simonedelgadoo/simonedelgadoo/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/simonedelgadoo/simonedelgadoo/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/simonedelgadoo/simonedelgadoo/output/github-contribution-grid-snake.svg">
+</picture>
