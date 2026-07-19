@@ -1,5 +1,5 @@
 # Olá, eu sou a Simone Delgado
-## Especialista em Marketing Digital | Marketing & Comunicação | Freelancer
+## Especialista em Marketing & Comunicação Digital | Freelancer
 Sou licenciada em Marketing, Gestão Comercial e Empreendedorismo, com mais de 5 anos de experiência em Marketing e Comunicação Institucional. Ao longo da minha carreira, desenvolvi estratégias de comunicação, campanhas digitais, produção de conteúdos, branding e gestão de projetos para organizações e iniciativas de impacto social.
 
 Atualmente, trabalho como freelancer, ajudando empresas, empreendedores e organizações a fortalecerem a sua presença digital através de soluções criativas, estratégicas e orientadas para resultados.
